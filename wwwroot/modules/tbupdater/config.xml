@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[tbupdater]]></name>
+  <displayName><![CDATA[thirty bees Updater]]></displayName>
+  <version><![CDATA[1.4.0]]></version>
+  <description><![CDATA[Use this module to keep the core files and modules updated!]]></description>
+  <author><![CDATA[thirty bees]]></author>
+  <author_uri/>
+  <tab><![CDATA[administration]]></tab>
+  <confirmUninstall/>
+  <is_configurable>1</is_configurable>
+  <need_instance>1</need_instance>
+  <limited_countries/>
+</module>
